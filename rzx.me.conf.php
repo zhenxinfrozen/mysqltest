@@ -9,7 +9,7 @@
 
 
 		//step 2 select db
-		mysql_select_db("fucktest");
+		mysql_select_db("mysqltest");
 
 
 
