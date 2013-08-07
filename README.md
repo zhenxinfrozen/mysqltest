@@ -1,7 +1,11 @@
-test001
+mysqltest
 =======
 
-test
+测试，mysql，php链接，上传，远程交互。
 
-测试project
+
+
 test。test.ing
+
+
+
