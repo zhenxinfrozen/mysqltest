@@ -1,5 +1,5 @@
 <?php
-		require "conf.php";
+		require "test.conf.php";
 
 		//执行任何SQL
 		//将所有语句分为两类，一类是有影响行数（update，delete，insert）的语句，
